@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-[#fff7ec] p-8">
       <h1 className="text-3xl font-bold mb-10 text-red-600 text-center">
-        消防体能知识与实践
+        学习关爱李思锦课程
       </h1>
 
       <div className="space-y-4 w-full max-w-sm">
